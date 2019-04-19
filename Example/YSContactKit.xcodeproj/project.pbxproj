@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		233AAC826323D8288D4A538F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		233AAC826323D8288D4A538F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		476665BA385965C439F0E541 /* Pods-YSContactKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YSContactKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-YSContactKit_Tests/Pods-YSContactKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		5FEFDED1B8BC21C11B5E20C7 /* Pods-YSContactKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YSContactKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-YSContactKit_Example/Pods-YSContactKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* YSContactKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YSContactKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,10 +62,10 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		78543D9B04337170B1CFEF2E /* Pods_YSContactKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YSContactKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8869582C48EB8487A8BD2BC0 /* YSContactKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YSContactKit.podspec; path = ../YSContactKit.podspec; sourceTree = "<group>"; };
+		8869582C48EB8487A8BD2BC0 /* YSContactKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YSContactKit.podspec; path = ../YSContactKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DCE81DFF4BCBF4187DE9521D /* Pods-YSContactKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YSContactKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YSContactKit_Example/Pods-YSContactKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DD089413AE08F92E041240CE /* Pods-YSContactKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YSContactKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YSContactKit_Tests/Pods-YSContactKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		DDEE976B1D87E82A955819C7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		DDEE976B1D87E82A955819C7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		FB66F7EADC791E3394C59923 /* Pods_YSContactKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YSContactKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
