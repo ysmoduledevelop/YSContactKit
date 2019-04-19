@@ -1,0 +1,6 @@
+framework module Pods_YSContactKit_Example {
+  umbrella header "Pods-YSContactKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

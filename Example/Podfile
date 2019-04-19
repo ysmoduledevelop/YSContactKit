@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YSContactKit_Example' do
+  pod 'YSContactKit', :path => '../'
+
+  target 'YSContactKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

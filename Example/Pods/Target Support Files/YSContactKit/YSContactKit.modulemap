@@ -1,0 +1,6 @@
+framework module YSContactKit {
+  umbrella header "YSContactKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

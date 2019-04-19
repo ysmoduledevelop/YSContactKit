@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - YSContactKit (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - YSContactKit (from `../`)
+
+EXTERNAL SOURCES:
+  YSContactKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  YSContactKit: 0c7b2b51291c656a81d7afc0b707b31a5ea95372
+
+PODFILE CHECKSUM: e8dc9932fd5d87c1ec4c67e494edfc4663becb99
+
+COCOAPODS: 1.4.0
